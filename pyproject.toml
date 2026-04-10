@@ -1,0 +1,16 @@
+[project]
+name = "pydocx-informe-fpe"
+version = "0.1.0"
+description = "Automatizacion de informes FPE con Python, docxtpl y JSON."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "python-docx>=1.1.2",
+  "docxtpl>=0.19.0",
+  "jinja2>=3.1.4",
+  "docx2pdf>=0.1.8",
+  "tkcalendar>=1.6.1",
+]
+
+[tool.uv]
+package = false

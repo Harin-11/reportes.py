@@ -1,0 +1,146 @@
+[
+  {
+    "numero": "01",
+    "descripcion": "Realiza operaciones con las librerias Pandas y Numpy.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  },
+  {
+    "numero": "02",
+    "descripcion": "Estudia el uso de las librerias Scikit-learn y Pytorch.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  },
+  {
+    "numero": "03",
+    "descripcion": "Estudia el uso de las librerias SciPy y Nltk.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  },
+  {
+    "numero": "04",
+    "descripcion": "Estudia el uso de las librerias Tensorflow y Keras.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  },
+  {
+    "numero": "05",
+    "descripcion": "Realiza operaciones con las librerias Matplotlib y Seaborn.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  },
+  {
+    "numero": "06",
+    "descripcion": "Estudia los fundamentos de Inteligencia Artificial.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  },
+  {
+    "numero": "07",
+    "descripcion": "Realiza operaciones con algebra lineal, vectores y matrices.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  },
+  {
+    "numero": "08",
+    "descripcion": "Estudia los principios y variables estadisticas.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  },
+  {
+    "numero": "09",
+    "descripcion": "Realiza operaciones con la varianza y desviacion estandar.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  },
+  {
+    "numero": "10",
+    "descripcion": "Crea programas con algoritmos de aprendizaje supervisado.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  },
+  {
+    "numero": "11",
+    "descripcion": "Crea programas con algoritmos de aprendizaje no supervisado.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  },
+  {
+    "numero": "12",
+    "descripcion": "Define la estructura y crea una red neuronal artificial.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  },
+  {
+    "numero": "13",
+    "descripcion": "Describe los principios de vision computacional y Machine Learning.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  },
+  {
+    "numero": "14",
+    "descripcion": "Explica el uso de la IA.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  },
+  {
+    "numero": "15",
+    "descripcion": "Utiliza recursividad en la programacion.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  },
+  {
+    "numero": "16",
+    "descripcion": "Construye algoritmo de arbol de decisiones.",
+    "op1": "",
+    "op2": "",
+    "op3": "",
+    "op4": "",
+    "seminario": ""
+  }
+]

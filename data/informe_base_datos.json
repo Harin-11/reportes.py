@@ -1,0 +1,74 @@
+{
+  "nombre_estudiante": "",
+  "id_estudiante": "",
+  "bloque": "",
+  "carrera": "",
+  "instructor": "",
+  "semestre": "",
+  "fecha_inicio_semestre": "",
+  "fecha_fin_semestre": "",
+  "escuela": "",
+  "rotaciones": [
+    {
+      "area": "",
+      "desde": "",
+      "hasta": "",
+      "semana": ""
+    }
+  ],
+  "pea_avances": {},
+  "semanas": [
+    {
+      "numero_semana": "",
+      "dias": [
+        { "dia": "LUNES", "fecha": "", "actividades": [], "horas": "" },
+        { "dia": "MARTES", "fecha": "", "actividades": [], "horas": "" },
+        { "dia": "MIÉRCOLES", "fecha": "", "actividades": [], "horas": "" },
+        { "dia": "JUEVES", "fecha": "", "actividades": [], "horas": "" },
+        { "dia": "VIERNES", "fecha": "", "actividades": [], "horas": "" },
+        { "dia": "SÁBADO", "fecha": "", "actividades": [], "horas": "" }
+      ],
+      "horas_totales": ""
+    },
+    {
+      "numero_semana": "",
+      "dias": [
+        { "dia": "LUNES", "fecha": "", "actividades": [], "horas": "" },
+        { "dia": "MARTES", "fecha": "", "actividades": [], "horas": "" },
+        { "dia": "MIÉRCOLES", "fecha": "", "actividades": [], "horas": "" },
+        { "dia": "JUEVES", "fecha": "", "actividades": [], "horas": "" },
+        { "dia": "VIERNES", "fecha": "", "actividades": [], "horas": "" },
+        { "dia": "SÁBADO", "fecha": "", "actividades": [], "horas": "" }
+      ],
+      "horas_totales": ""
+    },
+    {
+      "numero_semana": "",
+      "dias": [
+        { "dia": "LUNES", "fecha": "", "actividades": [], "horas": "" },
+        { "dia": "MARTES", "fecha": "", "actividades": [], "horas": "" },
+        { "dia": "MIÉRCOLES", "fecha": "", "actividades": [], "horas": "" },
+        { "dia": "JUEVES", "fecha": "", "actividades": [], "horas": "" },
+        { "dia": "VIERNES", "fecha": "", "actividades": [], "horas": "" },
+        { "dia": "SÁBADO", "fecha": "", "actividades": [], "horas": "" }
+      ],
+      "horas_totales": ""
+    }
+  ],
+  "tarea_significativa": "",
+  "porque_tarea_significativa": [],
+  "descripcion_tarea_significativa": [],
+  "maquinas_usadas": [],
+  "equipos_usados": [],
+  "herramientas_usadas": [],
+  "materiales_usados": [],
+  "charlas_seguridad": [],
+  "explicacion_actividades_y_medidas_seguras_usadas": [],
+  "resultado_ejecucion": [],
+  "objetivo_logrado_o_no": [],
+  "recomendaciones_resultado": [],
+  "recomendaciones_monitor": "",
+  "firma_estudiante_path": "",
+  "firma_monitor_path": "",
+  "diagrama_path": ""
+}
